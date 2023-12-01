@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Key Features:
+
+Intuitive Booking Interface: Navigate effortlessly through our platform's intuitive user interface. Booking a car is made simple with a streamlined process, allowing users to select vehicles based on their preferences and requirements.
+
+Dynamic Vehicle Listings: Explore a diverse range of vehicles, each accompanied by detailed descriptions, images, and rental options. From compact cars to spacious SUVs, find the perfect ride for your journey.
+
+Real-time Availability: Check the real-time availability of vehicles and choose the most suitable rental period. Our system ensures transparency and convenience for both renters and car owners.
+
+Secure Payment Gateway: Enjoy peace of mind with secure payment transactions. Our platform integrates a reliable payment gateway, providing a safe and efficient way to handle financial transactions.
+
+User Profiles: Create personalized profiles to manage bookings, track rental history, and maintain preferences. Car owners can easily list and manage their vehicles, enhancing the overall user experience.
+
+Responsive Design: Access the platform seamlessly across various devices, ensuring a consistent and enjoyable experience on desktops, tablets, and smartphones.
+
+
